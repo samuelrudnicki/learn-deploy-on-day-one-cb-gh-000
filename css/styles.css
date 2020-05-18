@@ -164,7 +164,7 @@ a:visited {
 }
 
 #profile-card {
-  background-image: https://i.imgur.com/XubZxhz.jpg;
+  background-image: url("https://i.imgur.com/XubZxhz.jpg");
 }
 
 .view-profile-div {
